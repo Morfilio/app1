@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kadmin &#8211; Avada Health</title>
+	<atom:link href="/author/kadmin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 23 Oct 2017 08:51:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>/2017/10/23/hello-world/</link>
+		<comments>/2017/10/23/hello-world/#comments</comments>
+		<pubDate>Mon, 23 Oct 2017 07:15:25 +0000</pubDate>
+		<dc:creator><![CDATA[kadmin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://YOUR_DOMAIN/?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2017/10/23/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Amazing health care coming to your area soon</title>
+		<link>/2015/12/16/amaizing-health-care-coming-to-you/</link>
+		<comments>/2015/12/16/amaizing-health-care-coming-to-you/#respond</comments>
+		<pubDate>Wed, 16 Dec 2015 08:31:30 +0000</pubDate>
+		<dc:creator><![CDATA[kadmin]]></dc:creator>
+				<category><![CDATA[Health]]></category>
+		<category><![CDATA[Seniors]]></category>
+		<category><![CDATA[Wellness]]></category>
+
+		<guid isPermaLink="false">http://theme-fusion.com/avada/medical/?p=131</guid>
+		<description><![CDATA[Studies show good health is all important There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p><div  class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth"  style='background-color: rgba(255,255,255,0);background-position: left top;background-repeat: no-repeat;padding-top:100px;padding-right:0px;padding-bottom:75px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_3  fusion-two-third fusion-column-first fusion-blend-mode 2_3"  style='margin-top:0px;margin-bottom:30px;width:65.3333%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 40px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2>Studies show good health is all important</h2>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#8217;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<h3>But not just any good diet</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<h3>Exercise is also just as important</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<ul class="fusion-checklist fusion-checklist-1" style="font-size:17px;line-height:28.9px;"><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Proin libero tellus, ultrices eu vehicula sed</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Luctus vitae nulla. Quisque efficitur lobortis orci amet vehicula.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Sed tincidunt tincidunt velit, vel scelerisque nibh tincidunt ut.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Suspendisse mi lorem, placerat in arcu ut, placerat aliquet felis.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Praesent bibendum felis nec turpis fringilla suscipit.</div></li></ul><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+<h3>Studies show that consistency is all important</h3>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable.</p>
+<p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3  fusion-one-third fusion-column-last fusion-blend-mode 1_3"  style='margin-top:0px;margin-bottom:30px;width:30.6666%'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 30px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h4 style="text-align: left;">TESTIMONIAL</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:50px;width:100%;max-width:100%;"></div><div class="fusion-testimonials clean fusion-testimonials-1" data-random="0"><style type="text/css" scoped="scoped">#fusion-testimonials-1 a{border-color:#333333;}#fusion-testimonials-1 a:hover, #fusion-testimonials-1 .activeSlide{background-color: #333333;}.fusion-testimonials.clean.fusion-testimonials-1 .author:after{border-top-color:rgba(255,255,255,0) !important;}</style><div class="reviews"><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-1.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>PENNY DANIELS</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-2.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>MARGERET TINSDALE</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-3.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>ROSE JAMERSON</strong></span></div></div></div><div class="testimonial-pagination" id="fusion-testimonials-1"></div></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OPENING HOURS</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><div class="table-2">
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Week Days</strong></td>
+<td style="text-align: right;"><strong>8:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Saturday</strong></td>
+<td style="text-align: right;"><strong>9:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Sunday</strong></td>
+<td style="text-align: right;"><strong>11:00 &#8211; 4:00</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><h4 style="font-weight: 400; text-align: center;"><i class="fa fa-phone"></i>   +44(0) 1865 339665</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OFFICE LOCATION</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div>					<script type="text/javascript">
+						var map_fusion_map_59edf923cd9dd;
+						var markers = [];
+						var counter = 0;
+						function fusion_run_map_fusion_map_59edf923cd9dd() {
+							jQuery('#fusion_map_59edf923cd9dd').fusion_maps({
+								addresses: [{"address":"121 King Street, London, United Kingdom","infobox_content":"121 King Street, London, United Kingdom","marker":"http:\/\/avada.theme-fusion.com\/health\/wp-content\/uploads\/sites\/76\/2015\/12\/map-marker.png","coordinates":false,"cache":false}],
+								animations: true,
+								infobox_background_color: '',
+								infobox_styling: 'default',
+								infobox_text_color: '',
+								map_style: 'custom',
+								map_type: 'roadmap',
+								marker_icon: 'http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/map-marker.png',
+								overlay_color: '',
+								overlay_color_hsl: {"hue":0,"sat":0,"lum":100},
+								pan_control: false,
+								show_address: false,
+								scale_control: false,
+								scrollwheel: false,
+								zoom: 14,
+								zoom_control: false,
+							});
+						}
+
+						google.maps.event.addDomListener(window, 'load', fusion_run_map_fusion_map_59edf923cd9dd);
+					</script>
+					<div class="shortcode-map fusion-google-map" id="fusion_map_59edf923cd9dd" style="height:200px;width:100%;"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:60px;"></div><h4 style="text-align: left;">OUR VALUES</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><style type="text/css" scoped="scoped"> }</style><div class="accordian fusion-accordian"><div class="panel-group" id="accordion-131-1"><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a class="active" data-toggle="collapse" data-parent="#accordion-131-1" data-target="#7e59edcbb37343de7" href="#7e59edcbb37343de7"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR MISSION</div></a></h4></div><div id="7e59edcbb37343de7" class="panel-collapse collapse in"><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-131-1" data-target="#837d058f956102b7b" href="#837d058f956102b7b"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR VISION</div></a></h4></div><div id="837d058f956102b7b" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-131-1" data-target="#f6bb784fdf0bf3810" href="#f6bb784fdf0bf3810"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PROMISE</div></a></h4></div><div id="f6bb784fdf0bf3810" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-131-1" data-target="#2a6cbb119f2a3cf3b" href="#2a6cbb119f2a3cf3b"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PHILOSOPHY</div></a></h4></div><div id="2a6cbb119f2a3cf3b" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div><div  class="fusion-fullwidth fullwidth-box fusion-parallax-fixed nonhundred-percent-fullwidth fusion-equal-height-columns"  style='background-color: rgba(255,255,255,0);background-image: url("http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/make-an-appointment.jpg");background-position: center center;background-repeat: no-repeat;padding-top:110px;padding-right:0px;padding-bottom:100px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-attachment:fixed;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_3_5  fusion-three-fifth fusion-column-first 3_5"  style='margin-top:0px;margin-bottom:30px;width:58.4%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2 style="color: #ffffff; text-align: left;">Make An Appointment</h2>
+<h3 style="color: #fcfcfc; text-align: left;">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</h3>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_5  fusion-two-fifth fusion-column-last 2_5"  style='margin-top:0px;margin-bottom:30px;width:37.6%'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<div class="fusion-column-content-centered"><div class="fusion-column-content"><div class="fusion-button-wrappercenter"><style type="text/css" scoped="scoped">.fusion-button.button-1 .fusion-button-text, .fusion-button.button-1 i {color:#ffffff;}.fusion-button.button-1 {border-width:0px;border-color:#ffffff;}.fusion-button.button-1 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-1:hover .fusion-button-text, .fusion-button.button-1:hover i,.fusion-button.button-1:focus .fusion-button-text, .fusion-button.button-1:focus i,.fusion-button.button-1:active .fusion-button-text, .fusion-button.button-1:active{color:#ffffff;}.fusion-button.button-1:hover, .fusion-button.button-1:focus, .fusion-button.button-1:active{border-width:0px;border-color:#ffffff;}.fusion-button.button-1:hover .fusion-button-icon-divider, .fusion-button.button-1:hover .fusion-button-icon-divider, .fusion-button.button-1:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-1{width:100%;}</style><a class="fusion-button button-flat fusion-button-round button-xlarge button-default button-1" target="_self" href="https://avada.theme-fusion.com/medical/make-appointment/"><span class="fusion-button-text">BOOK AN APPOINTMENT</span></a></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div></p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/12/16/amaizing-health-care-coming-to-you/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What does it mean to have an incredible daily diet?</title>
+		<link>/2015/12/15/what-does-it-mean-to-hace-a-good-diet/</link>
+		<comments>/2015/12/15/what-does-it-mean-to-hace-a-good-diet/#respond</comments>
+		<pubDate>Tue, 15 Dec 2015 08:34:12 +0000</pubDate>
+		<dc:creator><![CDATA[kadmin]]></dc:creator>
+				<category><![CDATA[Adults]]></category>
+		<category><![CDATA[Health]]></category>
+
+		<guid isPermaLink="false">http://theme-fusion.com/avada/medical/?p=136</guid>
+		<description><![CDATA[Studies show good health is all important There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p><div  class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth"  style='background-color: rgba(255,255,255,0);background-position: left top;background-repeat: no-repeat;padding-top:100px;padding-right:0px;padding-bottom:75px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_3  fusion-two-third fusion-column-first fusion-blend-mode 2_3"  style='margin-top:0px;margin-bottom:30px;width:65.3333%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 40px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2>Studies show good health is all important</h2>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#8217;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<h3>But not just any good diet</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<h3>Exercise is also just as important</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<ul class="fusion-checklist fusion-checklist-2" style="font-size:17px;line-height:28.9px;"><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Proin libero tellus, ultrices eu vehicula sed</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Luctus vitae nulla. Quisque efficitur lobortis orci amet vehicula.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Sed tincidunt tincidunt velit, vel scelerisque nibh tincidunt ut.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Suspendisse mi lorem, placerat in arcu ut, placerat aliquet felis.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Praesent bibendum felis nec turpis fringilla suscipit.</div></li></ul><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+<h3>Studies show that consistency is all important</h3>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable.</p>
+<p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3  fusion-one-third fusion-column-last fusion-blend-mode 1_3"  style='margin-top:0px;margin-bottom:30px;width:30.6666%'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 30px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h4 style="text-align: left;">TESTIMONIAL</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:50px;width:100%;max-width:100%;"></div><div class="fusion-testimonials clean fusion-testimonials-2" data-random="0"><style type="text/css" scoped="scoped">#fusion-testimonials-2 a{border-color:#333333;}#fusion-testimonials-2 a:hover, #fusion-testimonials-2 .activeSlide{background-color: #333333;}.fusion-testimonials.clean.fusion-testimonials-2 .author:after{border-top-color:rgba(255,255,255,0) !important;}</style><div class="reviews"><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-1.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>PENNY DANIELS</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-2.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>MARGERET TINSDALE</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-3.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>ROSE JAMERSON</strong></span></div></div></div><div class="testimonial-pagination" id="fusion-testimonials-2"></div></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OPENING HOURS</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><div class="table-2">
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Week Days</strong></td>
+<td style="text-align: right;"><strong>8:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Saturday</strong></td>
+<td style="text-align: right;"><strong>9:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Sunday</strong></td>
+<td style="text-align: right;"><strong>11:00 &#8211; 4:00</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><h4 style="font-weight: 400; text-align: center;"><i class="fa fa-phone"></i>   +44(0) 1865 339665</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OFFICE LOCATION</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div>					<script type="text/javascript">
+						var map_fusion_map_59edf923d03d0;
+						var markers = [];
+						var counter = 0;
+						function fusion_run_map_fusion_map_59edf923d03d0() {
+							jQuery('#fusion_map_59edf923d03d0').fusion_maps({
+								addresses: [{"address":"121 King Street, London, United Kingdom","infobox_content":"121 King Street, London, United Kingdom","marker":"http:\/\/avada.theme-fusion.com\/health\/wp-content\/uploads\/sites\/76\/2015\/12\/map-marker.png","coordinates":false,"cache":false}],
+								animations: true,
+								infobox_background_color: '',
+								infobox_styling: 'default',
+								infobox_text_color: '',
+								map_style: 'custom',
+								map_type: 'roadmap',
+								marker_icon: 'http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/map-marker.png',
+								overlay_color: '',
+								overlay_color_hsl: {"hue":0,"sat":0,"lum":100},
+								pan_control: false,
+								show_address: false,
+								scale_control: false,
+								scrollwheel: false,
+								zoom: 14,
+								zoom_control: false,
+							});
+						}
+
+						google.maps.event.addDomListener(window, 'load', fusion_run_map_fusion_map_59edf923d03d0);
+					</script>
+					<div class="shortcode-map fusion-google-map" id="fusion_map_59edf923d03d0" style="height:200px;width:100%;"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:60px;"></div><h4 style="text-align: left;">OUR VALUES</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><style type="text/css" scoped="scoped"> }</style><div class="accordian fusion-accordian"><div class="panel-group" id="accordion-136-2"><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a class="active" data-toggle="collapse" data-parent="#accordion-136-2" data-target="#801a4d943107d066e" href="#801a4d943107d066e"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR MISSION</div></a></h4></div><div id="801a4d943107d066e" class="panel-collapse collapse in"><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-136-2" data-target="#28a39507e39352270" href="#28a39507e39352270"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR VISION</div></a></h4></div><div id="28a39507e39352270" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-136-2" data-target="#12ebbb8f203016810" href="#12ebbb8f203016810"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PROMISE</div></a></h4></div><div id="12ebbb8f203016810" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-136-2" data-target="#4e2b511c25a728795" href="#4e2b511c25a728795"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PHILOSOPHY</div></a></h4></div><div id="4e2b511c25a728795" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div><div  class="fusion-fullwidth fullwidth-box fusion-parallax-fixed nonhundred-percent-fullwidth fusion-equal-height-columns"  style='background-color: rgba(255,255,255,0);background-image: url("http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/make-an-appointment.jpg");background-position: center center;background-repeat: no-repeat;padding-top:110px;padding-right:0px;padding-bottom:100px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-attachment:fixed;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_3_5  fusion-three-fifth fusion-column-first 3_5"  style='margin-top:0px;margin-bottom:30px;width:58.4%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2 style="color: #ffffff; text-align: left;">Make An Appointment</h2>
+<h3 style="color: #fcfcfc; text-align: left;">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</h3>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_5  fusion-two-fifth fusion-column-last 2_5"  style='margin-top:0px;margin-bottom:30px;width:37.6%'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<div class="fusion-column-content-centered"><div class="fusion-column-content"><div class="fusion-button-wrappercenter"><style type="text/css" scoped="scoped">.fusion-button.button-2 .fusion-button-text, .fusion-button.button-2 i {color:#ffffff;}.fusion-button.button-2 {border-width:0px;border-color:#ffffff;}.fusion-button.button-2 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-2:hover .fusion-button-text, .fusion-button.button-2:hover i,.fusion-button.button-2:focus .fusion-button-text, .fusion-button.button-2:focus i,.fusion-button.button-2:active .fusion-button-text, .fusion-button.button-2:active{color:#ffffff;}.fusion-button.button-2:hover, .fusion-button.button-2:focus, .fusion-button.button-2:active{border-width:0px;border-color:#ffffff;}.fusion-button.button-2:hover .fusion-button-icon-divider, .fusion-button.button-2:hover .fusion-button-icon-divider, .fusion-button.button-2:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-2{width:100%;}</style><a class="fusion-button button-flat fusion-button-round button-xlarge button-default button-2" target="_self" href="https://avada.theme-fusion.com/medical/make-appointment/"><span class="fusion-button-text">BOOK AN APPOINTMENT</span></a></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div></p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/12/15/what-does-it-mean-to-hace-a-good-diet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How often should you visit your midwife during pregnancy?</title>
+		<link>/2015/12/15/how-often-should-you-visit-your-midwife/</link>
+		<comments>/2015/12/15/how-often-should-you-visit-your-midwife/#respond</comments>
+		<pubDate>Tue, 15 Dec 2015 08:32:47 +0000</pubDate>
+		<dc:creator><![CDATA[kadmin]]></dc:creator>
+				<category><![CDATA[Adults]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Pregnancy]]></category>
+
+		<guid isPermaLink="false">http://theme-fusion.com/avada/medical/?p=133</guid>
+		<description><![CDATA[Studies show good health is all important There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p><div  class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth"  style='background-color: rgba(255,255,255,0);background-position: left top;background-repeat: no-repeat;padding-top:100px;padding-right:0px;padding-bottom:75px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_3  fusion-two-third fusion-column-first fusion-blend-mode 2_3"  style='margin-top:0px;margin-bottom:30px;width:65.3333%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 40px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2>Studies show good health is all important</h2>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#8217;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<h3>But not just any good diet</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<h3>Exercise is also just as important</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<ul class="fusion-checklist fusion-checklist-3" style="font-size:17px;line-height:28.9px;"><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Proin libero tellus, ultrices eu vehicula sed</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Luctus vitae nulla. Quisque efficitur lobortis orci amet vehicula.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Sed tincidunt tincidunt velit, vel scelerisque nibh tincidunt ut.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Suspendisse mi lorem, placerat in arcu ut, placerat aliquet felis.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Praesent bibendum felis nec turpis fringilla suscipit.</div></li></ul><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+<h3>Studies show that consistency is all important</h3>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable.</p>
+<p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3  fusion-one-third fusion-column-last fusion-blend-mode 1_3"  style='margin-top:0px;margin-bottom:30px;width:30.6666%'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 30px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h4 style="text-align: left;">TESTIMONIAL</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:50px;width:100%;max-width:100%;"></div><div class="fusion-testimonials clean fusion-testimonials-3" data-random="0"><style type="text/css" scoped="scoped">#fusion-testimonials-3 a{border-color:#333333;}#fusion-testimonials-3 a:hover, #fusion-testimonials-3 .activeSlide{background-color: #333333;}.fusion-testimonials.clean.fusion-testimonials-3 .author:after{border-top-color:rgba(255,255,255,0) !important;}</style><div class="reviews"><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-1.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>PENNY DANIELS</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-2.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>MARGERET TINSDALE</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-3.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>ROSE JAMERSON</strong></span></div></div></div><div class="testimonial-pagination" id="fusion-testimonials-3"></div></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OPENING HOURS</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><div class="table-2">
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Week Days</strong></td>
+<td style="text-align: right;"><strong>8:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Saturday</strong></td>
+<td style="text-align: right;"><strong>9:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Sunday</strong></td>
+<td style="text-align: right;"><strong>11:00 &#8211; 4:00</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><h4 style="font-weight: 400; text-align: center;"><i class="fa fa-phone"></i>   +44(0) 1865 339665</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OFFICE LOCATION</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div>					<script type="text/javascript">
+						var map_fusion_map_59edf923d2a80;
+						var markers = [];
+						var counter = 0;
+						function fusion_run_map_fusion_map_59edf923d2a80() {
+							jQuery('#fusion_map_59edf923d2a80').fusion_maps({
+								addresses: [{"address":"121 King Street, London, United Kingdom","infobox_content":"121 King Street, London, United Kingdom","marker":"http:\/\/avada.theme-fusion.com\/health\/wp-content\/uploads\/sites\/76\/2015\/12\/map-marker.png","coordinates":false,"cache":false}],
+								animations: true,
+								infobox_background_color: '',
+								infobox_styling: 'default',
+								infobox_text_color: '',
+								map_style: 'custom',
+								map_type: 'roadmap',
+								marker_icon: 'http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/map-marker.png',
+								overlay_color: '',
+								overlay_color_hsl: {"hue":0,"sat":0,"lum":100},
+								pan_control: false,
+								show_address: false,
+								scale_control: false,
+								scrollwheel: false,
+								zoom: 14,
+								zoom_control: false,
+							});
+						}
+
+						google.maps.event.addDomListener(window, 'load', fusion_run_map_fusion_map_59edf923d2a80);
+					</script>
+					<div class="shortcode-map fusion-google-map" id="fusion_map_59edf923d2a80" style="height:200px;width:100%;"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:60px;"></div><h4 style="text-align: left;">OUR VALUES</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><style type="text/css" scoped="scoped"> }</style><div class="accordian fusion-accordian"><div class="panel-group" id="accordion-133-3"><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a class="active" data-toggle="collapse" data-parent="#accordion-133-3" data-target="#de0df88860c52ec30" href="#de0df88860c52ec30"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR MISSION</div></a></h4></div><div id="de0df88860c52ec30" class="panel-collapse collapse in"><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-133-3" data-target="#6ee31a1358ea2639b" href="#6ee31a1358ea2639b"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR VISION</div></a></h4></div><div id="6ee31a1358ea2639b" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-133-3" data-target="#16a217136a70654bb" href="#16a217136a70654bb"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PROMISE</div></a></h4></div><div id="16a217136a70654bb" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-133-3" data-target="#a476751c912993045" href="#a476751c912993045"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PHILOSOPHY</div></a></h4></div><div id="a476751c912993045" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div><div  class="fusion-fullwidth fullwidth-box fusion-parallax-fixed nonhundred-percent-fullwidth fusion-equal-height-columns"  style='background-color: rgba(255,255,255,0);background-image: url("http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/make-an-appointment.jpg");background-position: center center;background-repeat: no-repeat;padding-top:110px;padding-right:0px;padding-bottom:100px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-attachment:fixed;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_3_5  fusion-three-fifth fusion-column-first 3_5"  style='margin-top:0px;margin-bottom:30px;width:58.4%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2 style="color: #ffffff; text-align: left;">Make An Appointment</h2>
+<h3 style="color: #fcfcfc; text-align: left;">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</h3>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_5  fusion-two-fifth fusion-column-last 2_5"  style='margin-top:0px;margin-bottom:30px;width:37.6%'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<div class="fusion-column-content-centered"><div class="fusion-column-content"><div class="fusion-button-wrappercenter"><style type="text/css" scoped="scoped">.fusion-button.button-3 .fusion-button-text, .fusion-button.button-3 i {color:#ffffff;}.fusion-button.button-3 {border-width:0px;border-color:#ffffff;}.fusion-button.button-3 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-3:hover .fusion-button-text, .fusion-button.button-3:hover i,.fusion-button.button-3:focus .fusion-button-text, .fusion-button.button-3:focus i,.fusion-button.button-3:active .fusion-button-text, .fusion-button.button-3:active{color:#ffffff;}.fusion-button.button-3:hover, .fusion-button.button-3:focus, .fusion-button.button-3:active{border-width:0px;border-color:#ffffff;}.fusion-button.button-3:hover .fusion-button-icon-divider, .fusion-button.button-3:hover .fusion-button-icon-divider, .fusion-button.button-3:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-3{width:100%;}</style><a class="fusion-button button-flat fusion-button-round button-xlarge button-default button-3" target="_self" href="https://avada.theme-fusion.com/medical/make-appointment/"><span class="fusion-button-text">BOOK AN APPOINTMENT</span></a></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div></p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/12/15/how-often-should-you-visit-your-midwife/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Beautiful life with beautiful health</title>
+		<link>/2015/12/15/beautiful-life-with-beautiful-health/</link>
+		<comments>/2015/12/15/beautiful-life-with-beautiful-health/#respond</comments>
+		<pubDate>Tue, 15 Dec 2015 06:30:10 +0000</pubDate>
+		<dc:creator><![CDATA[kadmin]]></dc:creator>
+				<category><![CDATA[Adults]]></category>
+		<category><![CDATA[Health]]></category>
+
+		<guid isPermaLink="false">http://theme-fusion.com/avada/medical/?p=129</guid>
+		<description><![CDATA[Studies show good health is all important There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p><div  class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth"  style='background-color: rgba(255,255,255,0);background-position: left top;background-repeat: no-repeat;padding-top:100px;padding-right:0px;padding-bottom:75px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_3  fusion-two-third fusion-column-first fusion-blend-mode 2_3"  style='margin-top:0px;margin-bottom:30px;width:65.3333%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 40px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2>Studies show good health is all important</h2>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#8217;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<h3>But not just any good diet</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<h3>Exercise is also just as important</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<ul class="fusion-checklist fusion-checklist-4" style="font-size:17px;line-height:28.9px;"><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Proin libero tellus, ultrices eu vehicula sed</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Luctus vitae nulla. Quisque efficitur lobortis orci amet vehicula.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Sed tincidunt tincidunt velit, vel scelerisque nibh tincidunt ut.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Suspendisse mi lorem, placerat in arcu ut, placerat aliquet felis.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Praesent bibendum felis nec turpis fringilla suscipit.</div></li></ul><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+<h3>Studies show that consistency is all important</h3>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable.</p>
+<p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3  fusion-one-third fusion-column-last fusion-blend-mode 1_3"  style='margin-top:0px;margin-bottom:30px;width:30.6666%'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 30px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h4 style="text-align: left;">TESTIMONIAL</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:50px;width:100%;max-width:100%;"></div><div class="fusion-testimonials clean fusion-testimonials-4" data-random="0"><style type="text/css" scoped="scoped">#fusion-testimonials-4 a{border-color:#333333;}#fusion-testimonials-4 a:hover, #fusion-testimonials-4 .activeSlide{background-color: #333333;}.fusion-testimonials.clean.fusion-testimonials-4 .author:after{border-top-color:rgba(255,255,255,0) !important;}</style><div class="reviews"><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-1.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>PENNY DANIELS</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-2.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>MARGERET TINSDALE</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-3.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>ROSE JAMERSON</strong></span></div></div></div><div class="testimonial-pagination" id="fusion-testimonials-4"></div></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OPENING HOURS</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><div class="table-2">
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Week Days</strong></td>
+<td style="text-align: right;"><strong>8:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Saturday</strong></td>
+<td style="text-align: right;"><strong>9:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Sunday</strong></td>
+<td style="text-align: right;"><strong>11:00 &#8211; 4:00</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><h4 style="font-weight: 400; text-align: center;"><i class="fa fa-phone"></i>   +44(0) 1865 339665</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OFFICE LOCATION</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div>					<script type="text/javascript">
+						var map_fusion_map_59edf923d4b0f;
+						var markers = [];
+						var counter = 0;
+						function fusion_run_map_fusion_map_59edf923d4b0f() {
+							jQuery('#fusion_map_59edf923d4b0f').fusion_maps({
+								addresses: [{"address":"121 King Street, London, United Kingdom","infobox_content":"121 King Street, London, United Kingdom","marker":"http:\/\/avada.theme-fusion.com\/health\/wp-content\/uploads\/sites\/76\/2015\/12\/map-marker.png","coordinates":false,"cache":false}],
+								animations: true,
+								infobox_background_color: '',
+								infobox_styling: 'default',
+								infobox_text_color: '',
+								map_style: 'custom',
+								map_type: 'roadmap',
+								marker_icon: 'http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/map-marker.png',
+								overlay_color: '',
+								overlay_color_hsl: {"hue":0,"sat":0,"lum":100},
+								pan_control: false,
+								show_address: false,
+								scale_control: false,
+								scrollwheel: false,
+								zoom: 14,
+								zoom_control: false,
+							});
+						}
+
+						google.maps.event.addDomListener(window, 'load', fusion_run_map_fusion_map_59edf923d4b0f);
+					</script>
+					<div class="shortcode-map fusion-google-map" id="fusion_map_59edf923d4b0f" style="height:200px;width:100%;"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:60px;"></div><h4 style="text-align: left;">OUR VALUES</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><style type="text/css" scoped="scoped"> }</style><div class="accordian fusion-accordian"><div class="panel-group" id="accordion-129-4"><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a class="active" data-toggle="collapse" data-parent="#accordion-129-4" data-target="#4233df6d39d11c922" href="#4233df6d39d11c922"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR MISSION</div></a></h4></div><div id="4233df6d39d11c922" class="panel-collapse collapse in"><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-129-4" data-target="#9fcf6fbe25325e090" href="#9fcf6fbe25325e090"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR VISION</div></a></h4></div><div id="9fcf6fbe25325e090" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-129-4" data-target="#bd4b96cef61f30856" href="#bd4b96cef61f30856"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PROMISE</div></a></h4></div><div id="bd4b96cef61f30856" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-129-4" data-target="#181b4bbf68d66c18d" href="#181b4bbf68d66c18d"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PHILOSOPHY</div></a></h4></div><div id="181b4bbf68d66c18d" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div><div  class="fusion-fullwidth fullwidth-box fusion-parallax-fixed nonhundred-percent-fullwidth fusion-equal-height-columns"  style='background-color: rgba(255,255,255,0);background-image: url("http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/make-an-appointment.jpg");background-position: center center;background-repeat: no-repeat;padding-top:110px;padding-right:0px;padding-bottom:100px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-attachment:fixed;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_3_5  fusion-three-fifth fusion-column-first 3_5"  style='margin-top:0px;margin-bottom:30px;width:58.4%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2 style="color: #ffffff; text-align: left;">Make An Appointment</h2>
+<h3 style="color: #fcfcfc; text-align: left;">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</h3>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_5  fusion-two-fifth fusion-column-last 2_5"  style='margin-top:0px;margin-bottom:30px;width:37.6%'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<div class="fusion-column-content-centered"><div class="fusion-column-content"><div class="fusion-button-wrappercenter"><style type="text/css" scoped="scoped">.fusion-button.button-4 .fusion-button-text, .fusion-button.button-4 i {color:#ffffff;}.fusion-button.button-4 {border-width:0px;border-color:#ffffff;}.fusion-button.button-4 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-4:hover .fusion-button-text, .fusion-button.button-4:hover i,.fusion-button.button-4:focus .fusion-button-text, .fusion-button.button-4:focus i,.fusion-button.button-4:active .fusion-button-text, .fusion-button.button-4:active{color:#ffffff;}.fusion-button.button-4:hover, .fusion-button.button-4:focus, .fusion-button.button-4:active{border-width:0px;border-color:#ffffff;}.fusion-button.button-4:hover .fusion-button-icon-divider, .fusion-button.button-4:hover .fusion-button-icon-divider, .fusion-button.button-4:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-4{width:100%;}</style><a class="fusion-button button-flat fusion-button-round button-xlarge button-default button-4" target="_self" href="https://avada.theme-fusion.com/medical/make-appointment/"><span class="fusion-button-text">BOOK AN APPOINTMENT</span></a></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div></p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/12/15/beautiful-life-with-beautiful-health/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Taking the best care of your kids is a daily regiment</title>
+		<link>/2015/12/01/taking-the-best-care-of-your-kids-daily/</link>
+		<comments>/2015/12/01/taking-the-best-care-of-your-kids-daily/#respond</comments>
+		<pubDate>Tue, 01 Dec 2015 08:55:08 +0000</pubDate>
+		<dc:creator><![CDATA[kadmin]]></dc:creator>
+				<category><![CDATA[Health]]></category>
+		<category><![CDATA[Kids]]></category>
+
+		<guid isPermaLink="false">/?p=714</guid>
+		<description><![CDATA[Studies show good health is all important There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p><div  class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth"  style='background-color: rgba(255,255,255,0);background-position: left top;background-repeat: no-repeat;padding-top:100px;padding-right:0px;padding-bottom:75px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_3  fusion-two-third fusion-column-first fusion-blend-mode 2_3"  style='margin-top:0px;margin-bottom:30px;width:65.3333%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 40px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2>Studies show good health is all important</h2>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#8217;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<h3>But not just any good diet</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<h3>Exercise is also just as important</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<ul class="fusion-checklist fusion-checklist-5" style="font-size:17px;line-height:28.9px;"><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Proin libero tellus, ultrices eu vehicula sed</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Luctus vitae nulla. Quisque efficitur lobortis orci amet vehicula.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Sed tincidunt tincidunt velit, vel scelerisque nibh tincidunt ut.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Suspendisse mi lorem, placerat in arcu ut, placerat aliquet felis.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Praesent bibendum felis nec turpis fringilla suscipit.</div></li></ul><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+<h3>Studies show that consistency is all important</h3>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable.</p>
+<p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3  fusion-one-third fusion-column-last fusion-blend-mode 1_3"  style='margin-top:0px;margin-bottom:30px;width:30.6666%'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 30px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h4 style="text-align: left;">TESTIMONIAL</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:50px;width:100%;max-width:100%;"></div><div class="fusion-testimonials clean fusion-testimonials-5" data-random="0"><style type="text/css" scoped="scoped">#fusion-testimonials-5 a{border-color:#333333;}#fusion-testimonials-5 a:hover, #fusion-testimonials-5 .activeSlide{background-color: #333333;}.fusion-testimonials.clean.fusion-testimonials-5 .author:after{border-top-color:rgba(255,255,255,0) !important;}</style><div class="reviews"><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-1.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>PENNY DANIELS</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-2.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>MARGERET TINSDALE</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-3.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>ROSE JAMERSON</strong></span></div></div></div><div class="testimonial-pagination" id="fusion-testimonials-5"></div></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OPENING HOURS</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><div class="table-2">
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Week Days</strong></td>
+<td style="text-align: right;"><strong>8:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Saturday</strong></td>
+<td style="text-align: right;"><strong>9:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Sunday</strong></td>
+<td style="text-align: right;"><strong>11:00 &#8211; 4:00</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><h4 style="font-weight: 400; text-align: center;"><i class="fa fa-phone"></i>   +44(0) 1865 339665</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OFFICE LOCATION</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div>					<script type="text/javascript">
+						var map_fusion_map_59edf923d72ca;
+						var markers = [];
+						var counter = 0;
+						function fusion_run_map_fusion_map_59edf923d72ca() {
+							jQuery('#fusion_map_59edf923d72ca').fusion_maps({
+								addresses: [{"address":"121 King Street, London, United Kingdom","infobox_content":"121 King Street, London, United Kingdom","marker":"http:\/\/avada.theme-fusion.com\/health\/wp-content\/uploads\/sites\/76\/2015\/12\/map-marker.png","coordinates":false,"cache":false}],
+								animations: true,
+								infobox_background_color: '',
+								infobox_styling: 'default',
+								infobox_text_color: '',
+								map_style: 'custom',
+								map_type: 'roadmap',
+								marker_icon: 'http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/map-marker.png',
+								overlay_color: '',
+								overlay_color_hsl: {"hue":0,"sat":0,"lum":100},
+								pan_control: false,
+								show_address: false,
+								scale_control: false,
+								scrollwheel: false,
+								zoom: 14,
+								zoom_control: false,
+							});
+						}
+
+						google.maps.event.addDomListener(window, 'load', fusion_run_map_fusion_map_59edf923d72ca);
+					</script>
+					<div class="shortcode-map fusion-google-map" id="fusion_map_59edf923d72ca" style="height:200px;width:100%;"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:60px;"></div><h4 style="text-align: left;">OUR VALUES</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><style type="text/css" scoped="scoped"> }</style><div class="accordian fusion-accordian"><div class="panel-group" id="accordion-714-5"><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a class="active" data-toggle="collapse" data-parent="#accordion-714-5" data-target="#3cb695edbe87d177c" href="#3cb695edbe87d177c"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR MISSION</div></a></h4></div><div id="3cb695edbe87d177c" class="panel-collapse collapse in"><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-714-5" data-target="#025303678c14a6490" href="#025303678c14a6490"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR VISION</div></a></h4></div><div id="025303678c14a6490" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-714-5" data-target="#da23bd0900df77e51" href="#da23bd0900df77e51"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PROMISE</div></a></h4></div><div id="da23bd0900df77e51" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-714-5" data-target="#b6a1d363d8f0c5fc2" href="#b6a1d363d8f0c5fc2"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PHILOSOPHY</div></a></h4></div><div id="b6a1d363d8f0c5fc2" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div><div  class="fusion-fullwidth fullwidth-box fusion-parallax-fixed nonhundred-percent-fullwidth fusion-equal-height-columns"  style='background-color: rgba(255,255,255,0);background-image: url("http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/make-an-appointment.jpg");background-position: center center;background-repeat: no-repeat;padding-top:110px;padding-right:0px;padding-bottom:100px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-attachment:fixed;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_3_5  fusion-three-fifth fusion-column-first 3_5"  style='margin-top:0px;margin-bottom:30px;width:58.4%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2 style="color: #ffffff; text-align: left;">Make An Appointment</h2>
+<h3 style="color: #fcfcfc; text-align: left;">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</h3>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_5  fusion-two-fifth fusion-column-last 2_5"  style='margin-top:0px;margin-bottom:30px;width:37.6%'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<div class="fusion-column-content-centered"><div class="fusion-column-content"><div class="fusion-button-wrappercenter"><style type="text/css" scoped="scoped">.fusion-button.button-5 .fusion-button-text, .fusion-button.button-5 i {color:#ffffff;}.fusion-button.button-5 {border-width:0px;border-color:#ffffff;}.fusion-button.button-5 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-5:hover .fusion-button-text, .fusion-button.button-5:hover i,.fusion-button.button-5:focus .fusion-button-text, .fusion-button.button-5:focus i,.fusion-button.button-5:active .fusion-button-text, .fusion-button.button-5:active{color:#ffffff;}.fusion-button.button-5:hover, .fusion-button.button-5:focus, .fusion-button.button-5:active{border-width:0px;border-color:#ffffff;}.fusion-button.button-5:hover .fusion-button-icon-divider, .fusion-button.button-5:hover .fusion-button-icon-divider, .fusion-button.button-5:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-5{width:100%;}</style><a class="fusion-button button-flat fusion-button-round button-xlarge button-default button-5" target="_self" href="https://avada.theme-fusion.com/medical/make-appointment/"><span class="fusion-button-text">BOOK AN APPOINTMENT</span></a></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div></p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/12/01/taking-the-best-care-of-your-kids-daily/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New ways to prevent heart attacks</title>
+		<link>/2015/11/29/new-ways-to-prevent-heart-attacks/</link>
+		<comments>/2015/11/29/new-ways-to-prevent-heart-attacks/#respond</comments>
+		<pubDate>Sun, 29 Nov 2015 08:58:11 +0000</pubDate>
+		<dc:creator><![CDATA[kadmin]]></dc:creator>
+				<category><![CDATA[Health]]></category>
+		<category><![CDATA[Seniors]]></category>
+
+		<guid isPermaLink="false">/?p=718</guid>
+		<description><![CDATA[Studies show good health is all important There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p><div  class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth"  style='background-color: rgba(255,255,255,0);background-position: left top;background-repeat: no-repeat;padding-top:100px;padding-right:0px;padding-bottom:75px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_3  fusion-two-third fusion-column-first fusion-blend-mode 2_3"  style='margin-top:0px;margin-bottom:30px;width:65.3333%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 40px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2>Studies show good health is all important</h2>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#8217;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<h3>But not just any good diet</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<h3>Exercise is also just as important</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<ul class="fusion-checklist fusion-checklist-6" style="font-size:17px;line-height:28.9px;"><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Proin libero tellus, ultrices eu vehicula sed</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Luctus vitae nulla. Quisque efficitur lobortis orci amet vehicula.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Sed tincidunt tincidunt velit, vel scelerisque nibh tincidunt ut.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Suspendisse mi lorem, placerat in arcu ut, placerat aliquet felis.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Praesent bibendum felis nec turpis fringilla suscipit.</div></li></ul><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+<h3>Studies show that consistency is all important</h3>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable.</p>
+<p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3  fusion-one-third fusion-column-last fusion-blend-mode 1_3"  style='margin-top:0px;margin-bottom:30px;width:30.6666%'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 30px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h4 style="text-align: left;">TESTIMONIAL</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:50px;width:100%;max-width:100%;"></div><div class="fusion-testimonials clean fusion-testimonials-6" data-random="0"><style type="text/css" scoped="scoped">#fusion-testimonials-6 a{border-color:#333333;}#fusion-testimonials-6 a:hover, #fusion-testimonials-6 .activeSlide{background-color: #333333;}.fusion-testimonials.clean.fusion-testimonials-6 .author:after{border-top-color:rgba(255,255,255,0) !important;}</style><div class="reviews"><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-1.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>PENNY DANIELS</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-2.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>MARGERET TINSDALE</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-3.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>ROSE JAMERSON</strong></span></div></div></div><div class="testimonial-pagination" id="fusion-testimonials-6"></div></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OPENING HOURS</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><div class="table-2">
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Week Days</strong></td>
+<td style="text-align: right;"><strong>8:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Saturday</strong></td>
+<td style="text-align: right;"><strong>9:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Sunday</strong></td>
+<td style="text-align: right;"><strong>11:00 &#8211; 4:00</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><h4 style="font-weight: 400; text-align: center;"><i class="fa fa-phone"></i>   +44(0) 1865 339665</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OFFICE LOCATION</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div>					<script type="text/javascript">
+						var map_fusion_map_59edf923d93e5;
+						var markers = [];
+						var counter = 0;
+						function fusion_run_map_fusion_map_59edf923d93e5() {
+							jQuery('#fusion_map_59edf923d93e5').fusion_maps({
+								addresses: [{"address":"121 King Street, London, United Kingdom","infobox_content":"121 King Street, London, United Kingdom","marker":"http:\/\/avada.theme-fusion.com\/health\/wp-content\/uploads\/sites\/76\/2015\/12\/map-marker.png","coordinates":false,"cache":false}],
+								animations: true,
+								infobox_background_color: '',
+								infobox_styling: 'default',
+								infobox_text_color: '',
+								map_style: 'custom',
+								map_type: 'roadmap',
+								marker_icon: 'http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/map-marker.png',
+								overlay_color: '',
+								overlay_color_hsl: {"hue":0,"sat":0,"lum":100},
+								pan_control: false,
+								show_address: false,
+								scale_control: false,
+								scrollwheel: false,
+								zoom: 14,
+								zoom_control: false,
+							});
+						}
+
+						google.maps.event.addDomListener(window, 'load', fusion_run_map_fusion_map_59edf923d93e5);
+					</script>
+					<div class="shortcode-map fusion-google-map" id="fusion_map_59edf923d93e5" style="height:200px;width:100%;"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:60px;"></div><h4 style="text-align: left;">OUR VALUES</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><style type="text/css" scoped="scoped"> }</style><div class="accordian fusion-accordian"><div class="panel-group" id="accordion-718-6"><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a class="active" data-toggle="collapse" data-parent="#accordion-718-6" data-target="#3d84fde063d40d808" href="#3d84fde063d40d808"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR MISSION</div></a></h4></div><div id="3d84fde063d40d808" class="panel-collapse collapse in"><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-718-6" data-target="#7a2f4bae52c034099" href="#7a2f4bae52c034099"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR VISION</div></a></h4></div><div id="7a2f4bae52c034099" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-718-6" data-target="#7b1ebfc7499b9f3ff" href="#7b1ebfc7499b9f3ff"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PROMISE</div></a></h4></div><div id="7b1ebfc7499b9f3ff" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-718-6" data-target="#5de71749a0367ddca" href="#5de71749a0367ddca"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PHILOSOPHY</div></a></h4></div><div id="5de71749a0367ddca" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div><div  class="fusion-fullwidth fullwidth-box fusion-parallax-fixed nonhundred-percent-fullwidth fusion-equal-height-columns"  style='background-color: rgba(255,255,255,0);background-image: url("http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/make-an-appointment.jpg");background-position: center center;background-repeat: no-repeat;padding-top:110px;padding-right:0px;padding-bottom:100px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-attachment:fixed;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_3_5  fusion-three-fifth fusion-column-first 3_5"  style='margin-top:0px;margin-bottom:30px;width:58.4%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2 style="color: #ffffff; text-align: left;">Make An Appointment</h2>
+<h3 style="color: #fcfcfc; text-align: left;">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</h3>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_5  fusion-two-fifth fusion-column-last 2_5"  style='margin-top:0px;margin-bottom:30px;width:37.6%'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<div class="fusion-column-content-centered"><div class="fusion-column-content"><div class="fusion-button-wrappercenter"><style type="text/css" scoped="scoped">.fusion-button.button-6 .fusion-button-text, .fusion-button.button-6 i {color:#ffffff;}.fusion-button.button-6 {border-width:0px;border-color:#ffffff;}.fusion-button.button-6 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-6:hover .fusion-button-text, .fusion-button.button-6:hover i,.fusion-button.button-6:focus .fusion-button-text, .fusion-button.button-6:focus i,.fusion-button.button-6:active .fusion-button-text, .fusion-button.button-6:active{color:#ffffff;}.fusion-button.button-6:hover, .fusion-button.button-6:focus, .fusion-button.button-6:active{border-width:0px;border-color:#ffffff;}.fusion-button.button-6:hover .fusion-button-icon-divider, .fusion-button.button-6:hover .fusion-button-icon-divider, .fusion-button.button-6:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-6{width:100%;}</style><a class="fusion-button button-flat fusion-button-round button-xlarge button-default button-6" target="_self" href="https://avada.theme-fusion.com/medical/make-appointment/"><span class="fusion-button-text">BOOK AN APPOINTMENT</span></a></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div></p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/11/29/new-ways-to-prevent-heart-attacks/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Best practices in finding the right insurance for your needs</title>
+		<link>/2015/11/27/best-practices-in-finding-the-right-insurance/</link>
+		<comments>/2015/11/27/best-practices-in-finding-the-right-insurance/#respond</comments>
+		<pubDate>Fri, 27 Nov 2015 08:58:12 +0000</pubDate>
+		<dc:creator><![CDATA[kadmin]]></dc:creator>
+				<category><![CDATA[Health]]></category>
+		<category><![CDATA[Seniors]]></category>
+		<category><![CDATA[Wellness]]></category>
+
+		<guid isPermaLink="false">/?p=719</guid>
+		<description><![CDATA[Studies show good health is all important There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p><div  class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth"  style='background-color: rgba(255,255,255,0);background-position: left top;background-repeat: no-repeat;padding-top:100px;padding-right:0px;padding-bottom:75px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_3  fusion-two-third fusion-column-first fusion-blend-mode 2_3"  style='margin-top:0px;margin-bottom:30px;width:65.3333%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 40px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2>Studies show good health is all important</h2>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#8217;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<h3>But not just any good diet</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<h3>Exercsie is also just as important</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<ul class="fusion-checklist fusion-checklist-7" style="font-size:17px;line-height:28.9px;"><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Proin libero tellus, ultrices eu vehicula sed</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Luctus vitae nulla. Quisque efficitur lobortis orci amet vehicula.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Sed tincidunt tincidunt velit, vel scelerisque nibh tincidunt ut.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Suspendisse mi lorem, placerat in arcu ut, placerat aliquet felis.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Praesent bibendum felis nec turpis fringilla suscipit.</div></li></ul><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+<h3>Studies show that consistency is all important</h3>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable.</p>
+<p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3  fusion-one-third fusion-column-last fusion-blend-mode 1_3"  style='margin-top:0px;margin-bottom:30px;width:30.6666%'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 30px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h4 style="text-align: left;">TESTIMONIAL</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:50px;width:100%;max-width:100%;"></div><div class="fusion-testimonials clean fusion-testimonials-7" data-random="0"><style type="text/css" scoped="scoped">#fusion-testimonials-7 a{border-color:#333333;}#fusion-testimonials-7 a:hover, #fusion-testimonials-7 .activeSlide{background-color: #333333;}.fusion-testimonials.clean.fusion-testimonials-7 .author:after{border-top-color:rgba(255,255,255,0) !important;}</style><div class="reviews"><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-1.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>PENNY DANIELS</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-2.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>MARGERET TINSDALE</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-3.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>ROSE JAMERSON</strong></span></div></div></div><div class="testimonial-pagination" id="fusion-testimonials-7"></div></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OPENING HOURS</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><div class="table-2">
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Week Days</strong></td>
+<td style="text-align: right;"><strong>8:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Saturday</strong></td>
+<td style="text-align: right;"><strong>9:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Sunday</strong></td>
+<td style="text-align: right;"><strong>11:00 &#8211; 4:00</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><h4 style="font-weight: 400; text-align: center;"><i class="fa fa-phone"></i>   +44(0) 1865 339665</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OFFICE LOCATION</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div>					<script type="text/javascript">
+						var map_fusion_map_59edf923db7e1;
+						var markers = [];
+						var counter = 0;
+						function fusion_run_map_fusion_map_59edf923db7e1() {
+							jQuery('#fusion_map_59edf923db7e1').fusion_maps({
+								addresses: [{"address":"121 King Street, London, United Kingdom","infobox_content":"121 King Street, London, United Kingdom","marker":"http:\/\/avada.theme-fusion.com\/health\/wp-content\/uploads\/sites\/76\/2015\/12\/map-marker.png","coordinates":false,"cache":false}],
+								animations: true,
+								infobox_background_color: '',
+								infobox_styling: 'default',
+								infobox_text_color: '',
+								map_style: 'custom',
+								map_type: 'roadmap',
+								marker_icon: 'http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/map-marker.png',
+								overlay_color: '',
+								overlay_color_hsl: {"hue":0,"sat":0,"lum":100},
+								pan_control: false,
+								show_address: false,
+								scale_control: false,
+								scrollwheel: false,
+								zoom: 14,
+								zoom_control: false,
+							});
+						}
+
+						google.maps.event.addDomListener(window, 'load', fusion_run_map_fusion_map_59edf923db7e1);
+					</script>
+					<div class="shortcode-map fusion-google-map" id="fusion_map_59edf923db7e1" style="height:200px;width:100%;"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:60px;"></div><h4 style="text-align: left;">OUR VALUES</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><style type="text/css" scoped="scoped"> }</style><div class="accordian fusion-accordian"><div class="panel-group" id="accordion-719-7"><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a class="active" data-toggle="collapse" data-parent="#accordion-719-7" data-target="#22a63de3c0b8423bc" href="#22a63de3c0b8423bc"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR MISSION</div></a></h4></div><div id="22a63de3c0b8423bc" class="panel-collapse collapse in"><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-719-7" data-target="#acb172d705f92a873" href="#acb172d705f92a873"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR VISION</div></a></h4></div><div id="acb172d705f92a873" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-719-7" data-target="#a95657b190529d0a5" href="#a95657b190529d0a5"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PROMISE</div></a></h4></div><div id="a95657b190529d0a5" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-719-7" data-target="#e30ca85f8cb97fba1" href="#e30ca85f8cb97fba1"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PHILOSOPHY</div></a></h4></div><div id="e30ca85f8cb97fba1" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div><div  class="fusion-fullwidth fullwidth-box fusion-parallax-fixed nonhundred-percent-fullwidth fusion-equal-height-columns"  style='background-color: rgba(255,255,255,0);background-image: url("http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/make-an-appointment.jpg");background-position: center center;background-repeat: no-repeat;padding-top:110px;padding-right:0px;padding-bottom:100px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-attachment:fixed;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_3_5  fusion-three-fifth fusion-column-first 3_5"  style='margin-top:0px;margin-bottom:30px;width:58.4%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2 style="color: #ffffff; text-align: left;">Make An Appointment</h2>
+<h3 style="color: #fcfcfc; text-align: left;">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</h3>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_5  fusion-two-fifth fusion-column-last 2_5"  style='margin-top:0px;margin-bottom:30px;width:37.6%'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<div class="fusion-column-content-centered"><div class="fusion-column-content"><div class="fusion-button-wrappercenter"><style type="text/css" scoped="scoped">.fusion-button.button-7 .fusion-button-text, .fusion-button.button-7 i {color:#ffffff;}.fusion-button.button-7 {border-width:0px;border-color:#ffffff;}.fusion-button.button-7 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-7:hover .fusion-button-text, .fusion-button.button-7:hover i,.fusion-button.button-7:focus .fusion-button-text, .fusion-button.button-7:focus i,.fusion-button.button-7:active .fusion-button-text, .fusion-button.button-7:active{color:#ffffff;}.fusion-button.button-7:hover, .fusion-button.button-7:focus, .fusion-button.button-7:active{border-width:0px;border-color:#ffffff;}.fusion-button.button-7:hover .fusion-button-icon-divider, .fusion-button.button-7:hover .fusion-button-icon-divider, .fusion-button.button-7:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-7{width:100%;}</style><a class="fusion-button button-flat fusion-button-round button-xlarge button-default button-7" target="_self" href="https://avada.theme-fusion.com/medical/make-appointment/"><span class="fusion-button-text">BOOK AN APPOINTMENT</span></a></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div></p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/11/27/best-practices-in-finding-the-right-insurance/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Getting the most out of your health care provider</title>
+		<link>/2015/11/27/getting-the-most-out-of-your-provider/</link>
+		<comments>/2015/11/27/getting-the-most-out-of-your-provider/#respond</comments>
+		<pubDate>Fri, 27 Nov 2015 08:58:11 +0000</pubDate>
+		<dc:creator><![CDATA[kadmin]]></dc:creator>
+				<category><![CDATA[Adults]]></category>
+		<category><![CDATA[Health]]></category>
+
+		<guid isPermaLink="false">/?p=717</guid>
+		<description><![CDATA[Studies show good health is all important There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p><div  class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth"  style='background-color: rgba(255,255,255,0);background-position: left top;background-repeat: no-repeat;padding-top:100px;padding-right:0px;padding-bottom:75px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_3  fusion-two-third fusion-column-first fusion-blend-mode 2_3"  style='margin-top:0px;margin-bottom:30px;width:65.3333%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 40px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2>Studies show good health is all important</h2>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#8217;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<h3>But not just any good diet</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<h3>Exercsie is also just as important</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<ul class="fusion-checklist fusion-checklist-8" style="font-size:17px;line-height:28.9px;"><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Proin libero tellus, ultrices eu vehicula sed</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Luctus vitae nulla. Quisque efficitur lobortis orci amet vehicula.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Sed tincidunt tincidunt velit, vel scelerisque nibh tincidunt ut.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Suspendisse mi lorem, placerat in arcu ut, placerat aliquet felis.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Praesent bibendum felis nec turpis fringilla suscipit.</div></li></ul><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+<h3>Studies show that consistency is all important</h3>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable.</p>
+<p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3  fusion-one-third fusion-column-last fusion-blend-mode 1_3"  style='margin-top:0px;margin-bottom:30px;width:30.6666%'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 30px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h4 style="text-align: left;">TESTIMONIAL</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:50px;width:100%;max-width:100%;"></div><div class="fusion-testimonials clean fusion-testimonials-8" data-random="0"><style type="text/css" scoped="scoped">#fusion-testimonials-8 a{border-color:#333333;}#fusion-testimonials-8 a:hover, #fusion-testimonials-8 .activeSlide{background-color: #333333;}.fusion-testimonials.clean.fusion-testimonials-8 .author:after{border-top-color:rgba(255,255,255,0) !important;}</style><div class="reviews"><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-1.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>PENNY DANIELS</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-2.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>MARGERET TINSDALE</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-3.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>ROSE JAMERSON</strong></span></div></div></div><div class="testimonial-pagination" id="fusion-testimonials-8"></div></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OPENING HOURS</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><div class="table-2">
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Week Days</strong></td>
+<td style="text-align: right;"><strong>8:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Saturday</strong></td>
+<td style="text-align: right;"><strong>9:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Sunday</strong></td>
+<td style="text-align: right;"><strong>11:00 &#8211; 4:00</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><h4 style="font-weight: 400; text-align: center;"><i class="fa fa-phone"></i>   +44(0) 1865 339665</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OFFICE LOCATION</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div>					<script type="text/javascript">
+						var map_fusion_map_59edf923ddd41;
+						var markers = [];
+						var counter = 0;
+						function fusion_run_map_fusion_map_59edf923ddd41() {
+							jQuery('#fusion_map_59edf923ddd41').fusion_maps({
+								addresses: [{"address":"121 King Street, London, United Kingdom","infobox_content":"121 King Street, London, United Kingdom","marker":"http:\/\/avada.theme-fusion.com\/health\/wp-content\/uploads\/sites\/76\/2015\/12\/map-marker.png","coordinates":false,"cache":false}],
+								animations: true,
+								infobox_background_color: '',
+								infobox_styling: 'default',
+								infobox_text_color: '',
+								map_style: 'custom',
+								map_type: 'roadmap',
+								marker_icon: 'http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/map-marker.png',
+								overlay_color: '',
+								overlay_color_hsl: {"hue":0,"sat":0,"lum":100},
+								pan_control: false,
+								show_address: false,
+								scale_control: false,
+								scrollwheel: false,
+								zoom: 14,
+								zoom_control: false,
+							});
+						}
+
+						google.maps.event.addDomListener(window, 'load', fusion_run_map_fusion_map_59edf923ddd41);
+					</script>
+					<div class="shortcode-map fusion-google-map" id="fusion_map_59edf923ddd41" style="height:200px;width:100%;"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:60px;"></div><h4 style="text-align: left;">OUR VALUES</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><style type="text/css" scoped="scoped"> }</style><div class="accordian fusion-accordian"><div class="panel-group" id="accordion-717-8"><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a class="active" data-toggle="collapse" data-parent="#accordion-717-8" data-target="#fef2bef8ef2f86349" href="#fef2bef8ef2f86349"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR MISSION</div></a></h4></div><div id="fef2bef8ef2f86349" class="panel-collapse collapse in"><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-717-8" data-target="#f01774d2b0934559c" href="#f01774d2b0934559c"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR VISION</div></a></h4></div><div id="f01774d2b0934559c" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-717-8" data-target="#ac079f51b3dee3277" href="#ac079f51b3dee3277"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PROMISE</div></a></h4></div><div id="ac079f51b3dee3277" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-717-8" data-target="#e7f6f6badaa568cfa" href="#e7f6f6badaa568cfa"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PHILOSOPHY</div></a></h4></div><div id="e7f6f6badaa568cfa" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div><div  class="fusion-fullwidth fullwidth-box fusion-parallax-fixed nonhundred-percent-fullwidth fusion-equal-height-columns"  style='background-color: rgba(255,255,255,0);background-image: url("http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/make-an-appointment.jpg");background-position: center center;background-repeat: no-repeat;padding-top:110px;padding-right:0px;padding-bottom:100px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-attachment:fixed;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_3_5  fusion-three-fifth fusion-column-first 3_5"  style='margin-top:0px;margin-bottom:30px;width:58.4%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2 style="color: #ffffff; text-align: left;">Make An Appointment</h2>
+<h3 style="color: #fcfcfc; text-align: left;">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</h3>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_5  fusion-two-fifth fusion-column-last 2_5"  style='margin-top:0px;margin-bottom:30px;width:37.6%'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<div class="fusion-column-content-centered"><div class="fusion-column-content"><div class="fusion-button-wrappercenter"><style type="text/css" scoped="scoped">.fusion-button.button-8 .fusion-button-text, .fusion-button.button-8 i {color:#ffffff;}.fusion-button.button-8 {border-width:0px;border-color:#ffffff;}.fusion-button.button-8 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-8:hover .fusion-button-text, .fusion-button.button-8:hover i,.fusion-button.button-8:focus .fusion-button-text, .fusion-button.button-8:focus i,.fusion-button.button-8:active .fusion-button-text, .fusion-button.button-8:active{color:#ffffff;}.fusion-button.button-8:hover, .fusion-button.button-8:focus, .fusion-button.button-8:active{border-width:0px;border-color:#ffffff;}.fusion-button.button-8:hover .fusion-button-icon-divider, .fusion-button.button-8:hover .fusion-button-icon-divider, .fusion-button.button-8:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-8{width:100%;}</style><a class="fusion-button button-flat fusion-button-round button-xlarge button-default button-8" target="_self" href="https://avada.theme-fusion.com/medical/make-appointment/"><span class="fusion-button-text">BOOK AN APPOINTMENT</span></a></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div></p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/11/27/getting-the-most-out-of-your-provider/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Beautiful life with Avada Health Care gives security</title>
+		<link>/2015/11/26/hello-world-2/</link>
+		<comments>/2015/11/26/hello-world-2/#respond</comments>
+		<pubDate>Thu, 26 Nov 2015 14:39:38 +0000</pubDate>
+		<dc:creator><![CDATA[kadmin]]></dc:creator>
+				<category><![CDATA[Health]]></category>
+		<category><![CDATA[Wellness]]></category>
+
+		<guid isPermaLink="false">http://theme-fusion.com/avada/medical/?p=1</guid>
+		<description><![CDATA[Studies show good health is all important There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p><div  class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth"  style='background-color: rgba(255,255,255,0);background-position: left top;background-repeat: no-repeat;padding-top:100px;padding-right:0px;padding-bottom:75px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_3  fusion-two-third fusion-column-first fusion-blend-mode 2_3"  style='margin-top:0px;margin-bottom:30px;width:65.3333%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 40px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2>Studies show good health is all important</h2>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#8217;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<h3>But not just any good diet</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<h3>Exercsie is also just as important</h3>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words</p>
+<ul class="fusion-checklist fusion-checklist-9" style="font-size:17px;line-height:28.9px;"><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Proin libero tellus, ultrices eu vehicula sed</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Luctus vitae nulla. Quisque efficitur lobortis orci amet vehicula.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Sed tincidunt tincidunt velit, vel scelerisque nibh tincidunt ut.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Suspendisse mi lorem, placerat in arcu ut, placerat aliquet felis.</div></li><li class="fusion-li-item"><span style="background-color:#3bafbf;font-size:14.96px;height:28.9px;width:28.9px;margin-right:11.9px;" class="icon-wrapper circle-yes"><i class="fusion-li-icon fa fa-check" style="color:#ffffff;"></i></span><div class="fusion-li-item-content" style="margin-left:40.8px;">Praesent bibendum felis nec turpis fringilla suscipit.</div></li></ul><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+<h3>Studies show that consistency is all important</h3>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable.</p>
+<p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3  fusion-one-third fusion-column-last fusion-blend-mode 1_3"  style='margin-top:0px;margin-bottom:30px;width:30.6666%'>
+					<div class="fusion-column-wrapper" style="background-color:#ffffff;border:0px solid #dddddd;padding: 0px 30px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h4 style="text-align: left;">TESTIMONIAL</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:50px;width:100%;max-width:100%;"></div><div class="fusion-testimonials clean fusion-testimonials-9" data-random="0"><style type="text/css" scoped="scoped">#fusion-testimonials-9 a{border-color:#333333;}#fusion-testimonials-9 a:hover, #fusion-testimonials-9 .activeSlide{background-color: #333333;}.fusion-testimonials.clean.fusion-testimonials-9 .author:after{border-top-color:rgba(255,255,255,0) !important;}</style><div class="reviews"><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-1.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>PENNY DANIELS</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-2.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>MARGERET TINSDALE</strong></span></div></div><div class="review avatar-image"><div class="testimonial-thumbnail"><img class="testimonial-image" src="http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/avater-3.jpg" style="-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;" /></div><blockquote style="margin: -25px;background-color:rgba(255,255,255,0);"><q style="background-color:rgba(255,255,255,0);color:#333333;">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</q></blockquote><div class="author" style="color:#333333;"><span class="company-name"><strong>ROSE JAMERSON</strong></span></div></div></div><div class="testimonial-pagination" id="fusion-testimonials-9"></div></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OPENING HOURS</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><div class="table-2">
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Week Days</strong></td>
+<td style="text-align: right;"><strong>8:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Saturday</strong></td>
+<td style="text-align: right;"><strong>9:00 &#8211; 5:00</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Sunday</strong></td>
+<td style="text-align: right;"><strong>11:00 &#8211; 4:00</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div><h4 style="font-weight: 400; text-align: center;"><i class="fa fa-phone"></i>   +44(0) 1865 339665</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><h4 style="text-align: left;">OFFICE LOCATION</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div>					<script type="text/javascript">
+						var map_fusion_map_59edf923e03d5;
+						var markers = [];
+						var counter = 0;
+						function fusion_run_map_fusion_map_59edf923e03d5() {
+							jQuery('#fusion_map_59edf923e03d5').fusion_maps({
+								addresses: [{"address":"121 King Street, London, United Kingdom","infobox_content":"121 King Street, London, United Kingdom","marker":"http:\/\/avada.theme-fusion.com\/health\/wp-content\/uploads\/sites\/76\/2015\/12\/map-marker.png","coordinates":false,"cache":false}],
+								animations: true,
+								infobox_background_color: '',
+								infobox_styling: 'default',
+								infobox_text_color: '',
+								map_style: 'custom',
+								map_type: 'roadmap',
+								marker_icon: 'http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/map-marker.png',
+								overlay_color: '',
+								overlay_color_hsl: {"hue":0,"sat":0,"lum":100},
+								pan_control: false,
+								show_address: false,
+								scale_control: false,
+								scrollwheel: false,
+								zoom: 14,
+								zoom_control: false,
+							});
+						}
+
+						google.maps.event.addDomListener(window, 'load', fusion_run_map_fusion_map_59edf923e03d5);
+					</script>
+					<div class="shortcode-map fusion-google-map" id="fusion_map_59edf923e03d5" style="height:200px;width:100%;"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:60px;"></div><h4 style="text-align: left;">OUR VALUES</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#3bafbf;border-top-width:2px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:30px;width:100%;max-width:100%;"></div><style type="text/css" scoped="scoped"> }</style><div class="accordian fusion-accordian"><div class="panel-group" id="accordion-831-9"><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a class="active" data-toggle="collapse" data-parent="#accordion-831-9" data-target="#22f50e3f83c73af92" href="#22f50e3f83c73af92"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR MISSION</div></a></h4></div><div id="22f50e3f83c73af92" class="panel-collapse collapse in"><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-831-9" data-target="#37f54e2e94d104edd" href="#37f54e2e94d104edd"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR VISION</div></a></h4></div><div id="37f54e2e94d104edd" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-831-9" data-target="#7a15fc31ddf48f020" href="#7a15fc31ddf48f020"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PROMISE</div></a></h4></div><div id="7a15fc31ddf48f020" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div><div class="fusion-panel panel-default"><div class="panel-heading"><h4 class="panel-title toggle"><a data-toggle="collapse" data-parent="#accordion-831-9" data-target="#ac6fe783645079ab5" href="#ac6fe783645079ab5"><div class="fusion-toggle-icon-wrapper"><i class="fa-fusion-box"></i></div><div class="fusion-toggle-heading">OUR PHILOSOPHY</div></a></h4></div><div id="ac6fe783645079ab5" class="panel-collapse collapse "><div class="panel-body toggle-content">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi<br />
+sint occaecati cupiditate non provident, similique sunt in</div></div></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div><div  class="fusion-fullwidth fullwidth-box fusion-parallax-fixed nonhundred-percent-fullwidth fusion-equal-height-columns"  style='background-color: rgba(255,255,255,0);background-image: url("http://avada.theme-fusion.com/health/wp-content/uploads/sites/76/2015/12/make-an-appointment.jpg");background-position: center center;background-repeat: no-repeat;padding-top:110px;padding-right:0px;padding-bottom:100px;padding-left:0px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-attachment:fixed;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_3_5  fusion-three-fifth fusion-column-first 3_5"  style='margin-top:0px;margin-bottom:30px;width:58.4%; margin-right: 4%;'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<h2 style="color: #ffffff; text-align: left;">Make An Appointment</h2>
+<h3 style="color: #fcfcfc; text-align: left;">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</h3>
+<div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_2_5  fusion-two-fifth fusion-column-last 2_5"  style='margin-top:0px;margin-bottom:30px;width:37.6%'>
+					<div class="fusion-column-wrapper" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<div class="fusion-column-content-centered"><div class="fusion-column-content"><div class="fusion-button-wrappercenter"><style type="text/css" scoped="scoped">.fusion-button.button-9 .fusion-button-text, .fusion-button.button-9 i {color:#ffffff;}.fusion-button.button-9 {border-width:0px;border-color:#ffffff;}.fusion-button.button-9 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-9:hover .fusion-button-text, .fusion-button.button-9:hover i,.fusion-button.button-9:focus .fusion-button-text, .fusion-button.button-9:focus i,.fusion-button.button-9:active .fusion-button-text, .fusion-button.button-9:active{color:#ffffff;}.fusion-button.button-9:hover, .fusion-button.button-9:focus, .fusion-button.button-9:active{border-width:0px;border-color:#ffffff;}.fusion-button.button-9:hover .fusion-button-icon-divider, .fusion-button.button-9:hover .fusion-button-icon-divider, .fusion-button.button-9:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-9{width:100%;}</style><a class="fusion-button button-flat fusion-button-round button-xlarge button-default button-9" target="_self" href="https://avada.theme-fusion.com/medical/make-appointment/"><span class="fusion-button-text">BOOK AN APPOINTMENT</span></a></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div></p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/11/26/hello-world-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
